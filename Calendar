@@ -3,13 +3,18 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEPTEMBER</title>
+    <title>Calendar</title>
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
     <main>
       <section>
-        
+        <h1>
+          <span class="flex">
+            <span>SEPTEMBER 2024</span>
+            <span>Balance Sheet</span>
+          </span>
+        </h1>
        
 
        
